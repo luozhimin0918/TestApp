@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         apiManager.getTariffInfo("4637b348589c493fbac91b6b5f0029f1","d12fa7e992fa4ef3", reqDetailJson, new ApiManager.RespCallBack() {
             @Override
             public void onResponse(String s) {
-                Log.d("MMM",s.toString());
+                Log.d("MMMonResponse",s.toString());
 
             }
         }, new ApiManager.RespErrorCallBack() {
