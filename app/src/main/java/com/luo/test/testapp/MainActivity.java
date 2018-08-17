@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         }, new ApiManager.RespErrorCallBack() {
             @Override
             public void onError(String s) {
-                Log.d("MMM",s.toString());
+                Log.d("MMMonError",s.toString());
             }
         });
     }
