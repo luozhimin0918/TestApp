@@ -27,4 +27,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'com.mcxiaoke.volley:library:1.0.19'
     implementation 'com.github.zhaokaiqiang.klog:library:0.0.1'
+    implementation  group: 'com.alibaba', name: 'fastjson', version: '1.2.49'
 }
