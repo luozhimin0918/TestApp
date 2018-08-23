@@ -7,4 +7,4 @@
 要添加
 com.mcxiaoke.volley:library:1.0.19
 com.github.zhaokaiqiang.klog:library:0.0.1
-group: 'com.alibaba', name: 'fastjson', version: '1.2.49'
+group: 'com.alibaba', name: 'fastjson', version: '1.1.40'
